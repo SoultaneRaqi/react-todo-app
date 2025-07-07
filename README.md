@@ -6,7 +6,7 @@ A clean and modern Todo App built with [React](https://reactjs.org/), [Vite](htt
 
 ## 📸 Preview
 
-![App Preview](./preview.png)
+![App Preview](./preview.jpeg)
 
 > Live Demo: [https://react-todo-app-raqisoultanes-projects.vercel.app](https://vercel.com/raqisoultanes-projects/react-todo-app)
 
